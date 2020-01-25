@@ -1,2 +1,2 @@
 # xanadu
-Xanadu sandbox repository
+Edited version of Xanadu sandbox repository
